@@ -3,6 +3,8 @@ package study.txz.example.iterator;
 /**
  * Created by Taxz on 2018/11/29/029.
  * GitHub:https://github.com/Taxz
+ *
+ * 迭代器具体实现类
  */
 public class ConcreteIterator<Iteam> implements Iterator {
 
