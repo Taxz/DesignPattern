@@ -4,6 +4,7 @@ package study.txz.example.iterator;
 /**
  * Created by Taxz on 2018/11/29/029.
  * GitHub:https://github.com/Taxz
+ * 迭代器接口实现类
  */
 public class MyIteratorIml implements IMyIterator {
 
