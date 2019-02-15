@@ -7,4 +7,4 @@
 - [迭代器模式](https://github.com/Taxz/DesignPattern/blob/master/src/main/java/study/txz/example/iterator/demo.java)
 - [单例模式](https://github.com/Taxz/DesignPattern/blob/master/src/main/java/study/txz/example/singleton/HungrySingleton.java)
 - [生产与消费模式](https://github.com/Taxz/DesignPattern/tree/master/src/main/java/study/txz/example/product/consumer)
-- [命令模式](https://github.com/Taxz/DesignPattern/blob/master/src/main/java/study/txz/example/ommandpattern/Client.java)
+- [命令模式](https://github.com/Taxz/DesignPattern/blob/master/src/main/java/study/txz/example/commandpattern/Client.java)
