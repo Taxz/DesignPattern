@@ -1,4 +1,4 @@
-package study.txz.example.ommandpattern.receiver;
+package study.txz.example.commandpattern.receiver;
 
 /**
  * Created by Taxz on 2019/2/13.

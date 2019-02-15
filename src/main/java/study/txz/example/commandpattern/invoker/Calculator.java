@@ -1,6 +1,6 @@
-package study.txz.example.ommandpattern.invoker;
+package study.txz.example.commandpattern.invoker;
 
-import study.txz.example.ommandpattern.command.Command;
+import study.txz.example.commandpattern.command.Command;
 
 import java.util.ArrayList;
 import java.util.List;
