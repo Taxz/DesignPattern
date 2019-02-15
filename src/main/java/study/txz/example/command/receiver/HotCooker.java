@@ -1,7 +1,7 @@
-package study.txz.example.commandpattern.receiver;
+package study.txz.example.command.receiver;
 
-import study.txz.example.commandpattern.command.CommandQueue;
-import study.txz.example.commandpattern.command.CookCommand;
+import study.txz.example.command.command.CommandQueue;
+import study.txz.example.command.command.CookCommand;
 
 /**
  * Created by Taxz on 2019/2/14.

@@ -1,7 +1,7 @@
-package study.txz.example.commandpattern.invoker;
+package study.txz.example.command.invoker;
 
-import study.txz.example.commandpattern.command.CookCommand;
-import study.txz.example.commandpattern.command.MenuCommand;
+import study.txz.example.command.command.CookCommand;
+import study.txz.example.command.command.MenuCommand;
 
 /**
  * Created by Taxz on 2019/2/14.

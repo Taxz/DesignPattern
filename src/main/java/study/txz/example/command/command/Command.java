@@ -1,4 +1,4 @@
-package study.txz.example.commandpattern.command;
+package study.txz.example.command.command;
 
 /**
  * Created by Taxz on 2019/2/13.

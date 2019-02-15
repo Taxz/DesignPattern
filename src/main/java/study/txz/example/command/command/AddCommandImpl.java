@@ -1,7 +1,7 @@
-package study.txz.example.commandpattern.command;
+package study.txz.example.command.command;
 
-import study.txz.example.commandpattern.receiver.OperationImpl;
-import study.txz.example.commandpattern.receiver.OperationInterface;
+import study.txz.example.command.receiver.OperationImpl;
+import study.txz.example.command.receiver.OperationInterface;
 
 /**
  * Created by Taxz on 2019/2/13.

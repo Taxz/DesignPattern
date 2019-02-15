@@ -1,6 +1,6 @@
-package study.txz.example.commandpattern.command;
+package study.txz.example.command.command;
 
-import study.txz.example.commandpattern.receiver.Cooker;
+import study.txz.example.command.receiver.Cooker;
 
 import java.util.ArrayList;
 import java.util.List;

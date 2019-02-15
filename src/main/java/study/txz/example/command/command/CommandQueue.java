@@ -1,4 +1,4 @@
-package study.txz.example.commandpattern.command;
+package study.txz.example.command.command;
 
 import java.util.ArrayList;
 import java.util.List;
